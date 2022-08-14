@@ -1,0 +1,45 @@
+// $colors = array("blue","green","yellow");
+// echo $colors[0];
+// print_r($colors);
+
+// indexed array
+// $colors = array("blue","green","yellow","white","black");
+// $colorsLength = count($colors);
+// echo $colorsLength;
+
+// for($x=0;$x<$colorsLength;$x++){
+//     echo $colors[$x];
+//   
+// }
+
+// associative array
+// $data = array("sandip"=>"math","saru"=>"c++");
+// echo $data["sandip"];
+
+// // for each
+
+// foreach($data as $a=>$value){
+//     echo "key".$a.",value=".$value;
+//     
+// }
+
+// function in array
+
+//sort 
+
+// $subject = array("Oop","Emath","COA","SEF","OODM");
+// sort($subject);
+// print_r($subject);
+
+//rsort
+// $subject = array("Oop","Emath","COA","SEF","OODM");
+// rsort($subject);
+// print_r($subject);
+
+//asort
+// $data = array("sandip"=>"math","saru"=>"c++");
+// asort($data);
+// print_r($data);
+
+
+// ?>
